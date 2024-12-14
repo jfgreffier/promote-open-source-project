@@ -6,71 +6,29 @@
 
 <br />
 
-<details>
-<summary>👌 Make sure that your project is mature enough</summary>
-<p>
-
+- [ ] 👌 Make sure that your project is mature enough
 > Your project must be stable enough with the minimum viable features in order to hook users.
 
-</p>
-</details>
-
-<details>
-<summary>😎 Choose a cool name for your cool project</summary>
-<p>
-
+- [ ] 😎 Choose a cool name for your cool project
 > Choose a name that users can easily remember.
 
-</p>
-</details>
-
-<details>
-<summary>💅 Make your README pretty</summary>
-<p>
-
+- [ ] 💅 Make your README pretty
 > The README is the first thing your visitors will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
 
-</p>
-</details>
-
-<details>
-<summary>💪 Highlight the strong points of your project</summary>
-<p>
-
+- [ ] 💪 Highlight the strong points of your project
 > Identify your project's strengths and make sure visitors see them first.
 
-</p>
-</details>
-
-<details>
-<summary>✨ Provide a demo of your project</summary>
-<p>
-
+- [ ] ✨ Provide a demo of your project
 > Visitors will want to quickly understand the purpose of your project, how it works, and how to use it. Providing a demo is the best way to satisfy users. It could be:
 >
 > - An animated GIF demonstrating how your project works
 > - A link to a live demo
 
-</p>
-</details>
-
-<details>
-<summary>👌 Install/Usage must be super easy</summary>
-<p>
-
+- [ ] 👌 Install/Usage must be super easy
 > You'll probably lose visitors if your project is not user-friendly.
 
-</p>
-</details>
-
-<details>
-<summary>📘 Create a clean and well structured documentation</summary>
-<p>
-
+- [ ] 📘 Create a clean and well structured documentation
 > Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open source projects like [vuepress](https://v1.vuepress.vuejs.org) can help you with creating a clean documentation in a simple way.
-
- </p>
-</details>
 
 <br />
 
@@ -78,19 +36,10 @@
 
 <br />
 
-<details>
-<summary>⭐ Make your project trustable before publishing it on social networks</summary>
-<p>
-
+- [ ] ⭐ Make your project trustable before publishing it on social networks
 > Most visitors will check how many stars the project has before considering using it. A minimum amount of stars makes your project more trustable than a project with zero star. This is why you should ask people you know to support your project before doing a public announcement on social media.
 
-</p>
-</details>
-
-<details>
-<summary>↗️ Share your project on social media and specialized platforms</summary>
-<p>
-
+- [ ] ↗️ Share your project on social media and specialized platforms
 > Tell the World about your awesome work! Publish it on social media and other specialized platforms:
 >
 > - [Twitter](https://twitter.com)
@@ -104,56 +53,23 @@
 > - [Beta page](https://betapage.co/)
 > - [Human Coders](https://news.humancoders.com/)
 
-</p>
-</details>
-
-<details>
-<summary>📃 Write articles that mention your project</summary>
-<p>
-
+- [ ] 📃 Write articles that mention your project
 > Write articles about your project. Purpose can be the technical stack you used, how your project works, problems you encountered, etc. Post it to publishing platforms:
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
 
-</p>
-</details>
-
-<details>
-<summary>🎤 Present your project at conferences/meetups</summary>
-<p>
-
+- [ ] 🎤 Present your project at conferences/meetups
 > Presenting your project at conferences or meetups is a good way to improve its visibility.
 
-</p>
-</details>
-
-<details>
-<summary>🎥 Record and publish videos presenting your project, how it works, etc</summary>
-<p>
-
+- [ ] 🎥 Record and publish videos presenting your project, how it works, etc
 > Recording a video is not an easy exercise. However, it's probably the most efficient way to make your project famous.
 
-</p>
-</details>
-
-<details>
-<summary>🕐 Choose the best time to publish on social media</summary>
-<p>
-
+- [ ] 🕐 Choose the best time to publish on social media
 > Don't publish during holiday periods or weekends. The best time to publish on social networks is usually mid-week.
 
-</p>
-</details>
-
-<details>
-<summary>🗑 Don't spam platforms with your promotion</summary>
-<p>
-
+- [ ] 🗑 Don't spam platforms with your promotion
 > Don't publish twice on the same platform. It will be considered as spam and it might cause bad publicity for your project.
-
-</p>
-</details>
 
 <br />
 
@@ -161,72 +77,29 @@
 
 <br />
 
-<details>
-<summary>🆕 Try to regularly release new versions of your project</summary>
-<p>
-
+- [ ] 🆕 Try to regularly release new versions of your project
 > Maintain and improve your project with new releases and generate changelogs.
 
-</p>
-</details>
-
-<details>
-<summary>❗ Maintain your project, process opened issues</summary>
-<p>
-
+- [ ] ❗ Maintain your project, process opened issues
 > Do not let issues stay open without a single response. Be nice with people that took the time to open issues. 😉
 
-</p>
-</details>
-
-<details>
-<summary>🙏 Invite users to contribute</summary>
-<p>
-
+- [ ] 🙏 Invite users to contribute
 > A healthy project is a project with a community and contributors. Let your users know that you need help by tagging some issues with `contribution welcome` or `good first issue` labels. [See github labels](https://help.github.com/en/articles/about-labels).
 
-</p>
-</details>
-
-<details>
-<summary>🏆 Reward contributors</summary>
-<p>
-
+- [ ] 🏆 Reward contributors
 > Be nice with people that helped you! Some open source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thank them or showcase them on your project documentation or website. Here are some examples:
 >
 > - [vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
 > - [Rythm.js (random highlighted contributor on demo page)](https://okazari.github.io/Rythm.js/)
 
-</p>
-</details>
-
-<details>
-<summary>💬 Open a community chat platform</summary>
-<p>
-
+- [ ] 💬 Open a community chat platform
 > Github issues are not always the best way to communicate with your users. If necessary, you can use chat platforms to discuss with them:
 >
 > - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
 > - [Gitter](https://gitter.im/)
 
-</p>
-</details>
-
-<details>
-<summary>🔙 Ask for feedback</summary>
-<p>
-
+- [ ] 🔙 Ask for feedback
 > User feedback is the best way to improve your project. They probably have features and ideas that could make your project better.
-
-</p>
-</details>
-
-<details>
-<summary>❤️ Open a use case gallery to show what users built with your project</summary>
-<p>
-
+- [ ] ❤️ Open a use case gallery to show what users built with your project
 > Visitors will trust your project if they see concrete use cases and success stories, e.g., [the vuepress gallery](https://vuepress.gallery/).
-
-</p>
-</details>
